@@ -1,0 +1,24 @@
+
+[
+    {
+        "team1": "Team A",
+        "team2": "Team B",
+        "time": "18:00",
+        "status": "Live",
+        "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
+    },
+    {
+        "team1": "Team C",
+        "team2": "Team D",
+        "time": "20:00",
+        "status": "Upcoming",
+        "streamUrl": "https://example.com/match2.ts"
+    },
+    {
+        "team1": "Team E",
+        "team2": "Team F",
+        "time": "22:00",
+        "status": "Finished",
+        "streamUrl": "https://example.com/match3.ts"
+    }
+]
