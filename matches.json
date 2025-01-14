@@ -8,11 +8,11 @@
         "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
     },
     {
-        "team1": "Team REAL",
-        "team2": "Team BARCELONA",
+        "team1": "Real Madrid",
+        "team2": "Barcelona",
         "time": "20:00",
         "status": "Upcoming",
-        "streamUrl": "https://example.com/match2.ts"
+        "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11161.ts"
     },
     {
         "team1": "Team E",
