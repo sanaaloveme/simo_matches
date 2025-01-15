@@ -18,14 +18,14 @@
         "team2": "WAC",
         "time": "22:00",
         "status": "Finished",
-        "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
+        "streamUrl": "https://example.com/match3.ts"
     },
     {
-        "team1": "Team G",
-        "team2": "Team H",
-        "time": "22:00",
-        "status": "Finished",
-        "streamUrl": "https://example.com/match4.ts"
+        "team1": "نوتينغهام فورست",
+        "team2": "ليفربول",
+        "time": "21:00",
+        "status": "انتهت",
+        "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
     },
     {
         "team1": "Team K",
