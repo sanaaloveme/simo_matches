@@ -1,37 +1,52 @@
 [
-    {
-        "team1": "Bayern Munich",
-        "team2": "Real Madrid",
-        "time": "18:00",
-        "status": "Live",
-        "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
-    },
-    {
-        "team1": "Real Madrid",
-        "team2": "Valencia",
-        "time": "20:00",
-        "status": "Upcoming",
-        "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
-    },
-    {
-        "team1": "HUSA",
-        "team2": "WAC",
-        "time": "22:00",
-        "status": "Finished",
-        "streamUrl": "https://example.com/match3.ts"
-    },
-    {
-        "team1": "نوتينغهام فورست",
-        "team2": "ليفربول",
-        "time": "21:00",
-        "status": "انتهت",
-        "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
-    },
-    {
-        "team1": "Team K",
-        "team2": "Team L",
-        "time": "22:00",
-        "status": "Finished",
-        "streamUrl": "https://example.com/match5.ts"
-    }
+  {
+    "team1": "Bayern Munich",
+    "team2": "Real Madrid",
+    "time": "18:00",
+    "date": "2025-01-15",
+    "status": "Live",
+    "team1Logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_Munich_logo_(2021).svg",
+    "team2Logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
+  },
+  {
+    "team1": "Real Madrid",
+    "team2": "Valencia",
+    "time": "20:00",
+    "date": "2025-01-16",
+    "status": "Upcoming",
+    "team1Logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "team2Logo": "https://upload.wikimedia.org/wikipedia/en/7/75/Valencia_CF_logo.svg",
+    "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
+  },
+  {
+    "team1": "HUSA",
+    "team2": "WAC",
+    "time": "22:00",
+    "date": "2025-01-14",
+    "status": "Finished",
+    "team1Logo": "https://example.com/husa_logo.png",
+    "team2Logo": "https://example.com/wac_logo.png",
+    "streamUrl": "https://example.com/match3.ts"
+  },
+  {
+    "team1": "نوتينغهام فورست",
+    "team2": "ليفربول",
+    "time": "21:00",
+    "date": "2025-01-14",
+    "status": "انتهت",
+    "team1Logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_FC_logo.svg",
+    "team2Logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
+  },
+  {
+    "team1": "Team K",
+    "team2": "Team L",
+    "time": "22:00",
+    "date": "2025-01-13",
+    "status": "Finished",
+    "team1Logo": "https://example.com/teamk_logo.png",
+    "team2Logo": "https://example.com/teaml_logo.png",
+    "streamUrl": "https://example.com/match5.ts"
+  }
 ]
