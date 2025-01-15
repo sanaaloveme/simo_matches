@@ -1,29 +1,29 @@
 [
     {
-        "team1": "Bayern Munich",
+        "team1": "بايرن ميونخ",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
-        "team2": "Real Madrid",
+        "team2": "ريال مدريد",
         "team2Logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Escudo_Real_madrid_1931.png?20160416133819",
         "time": "18:00",
-        "status": "Live",
+        "status": "مباشر",
         "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
     },
     {
-        "team1": "Team C",
-        "team1Logo": "https://example.com/logos/teamC.png",
-        "team2": "Team D",
-        "team2Logo": "https://example.com/logos/teamD.png",
+        "team1": "ليفربول",
+        "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Liverpool_FC_Digital_Logo_2024.png/1600px-Liverpool_FC_Digital_Logo_2024.png",
+        "team2": "توتنهام",
+        "team2Logo": "https://en.m.wikipedia.org/wiki/Tottenham_Hotspur_F.C.#/media/File%3ATottenham_Hotspur.svg",
         "time": "20:00",
-        "status": "Upcoming",
+        "status": "لم تبدأ بعد",
         "streamUrl": "https://example.com/match2.ts"
     },
     {
-        "team1": "Team E",
-        "team1Logo": "https://example.com/logos/teamE.png",
-        "team2": "Team F",
-        "team2Logo": "https://example.com/logos/teamF.png",
+        "team1": "مانشيستر يونايتد",
+        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",
+        "team2": "مانشيستر سيتي",
+        "team2Logo": "https://en.m.wikipedia.org/wiki/Manchester_City_F.C.#/media/File%3AManchester_City_FC_badge.svg",
         "time": "22:00",
-        "status": "Finished",
+        "status": "انتهت",
         "streamUrl": "https://example.com/match3.ts"
     }
 ]
