@@ -12,7 +12,7 @@
         "team1": "ليفربول",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Liverpool_FC_Digital_Logo_2024.png/1600px-Liverpool_FC_Digital_Logo_2024.png",
         "team2": "توتنهام",
-        "team2Logo": "https://en.m.wikipedia.org/wiki/Tottenham_Hotspur_F.C.#/media/File%3ATottenham_Hotspur.svg",
+        "team2Logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
         "time": "20:00",
         "status": "لم تبدأ بعد",
         "streamUrl": "https://example.com/match2.ts"
@@ -21,7 +21,7 @@
         "team1": "مانشيستر يونايتد",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",
         "team2": "مانشيستر سيتي",
-        "team2Logo": "https://en.m.wikipedia.org/wiki/Manchester_City_F.C.#/media/File%3AManchester_City_FC_badge.svg",
+        "team2Logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
         "time": "22:00",
         "status": "انتهت",
         "streamUrl": "https://example.com/match3.ts"
