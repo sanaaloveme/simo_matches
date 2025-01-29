@@ -6,7 +6,7 @@
         "team2Logo": "https://img0.aiscore.com/football/team/47ba2fe5caa3770cfa2e99dc4b7e72cd.png",
         "time": "21:00",
         "status": "مباشر",
-        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/11183.ts"
+        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10514.ts"
     },
     {
         "team1": "مانشستر سيتي",
@@ -24,7 +24,7 @@
         "team2Logo": "https://img0.aiscore.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
         "time": "21:00",
         "status": "انتهت",
-        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10514.ts"
+        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10513.ts"
     },
     {
         "team1": "بايرن ميونخ",
@@ -33,7 +33,7 @@
         "team2Logo": "https://img0.aiscore.com/football/team/8e220a74791be9e0eb13507f0ce444db.png",
         "time": "21:00",
         "status": "مباشر",
-        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10517.ts"
+        "streamUrl": ""
     },
     {
         "team1": "ليفربول",
@@ -51,7 +51,7 @@
         "team2Logo": "https://img0.aiscore.com/football/team/bfdd500484330d63a723cbc396df762c.png",
         "time": "21:00",
         "status": "انتهت",
-        "streamUrl": "https://example.com/match3.ts"
+        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10517.ts"
     },
     {
         "team1": "آرسنال",
