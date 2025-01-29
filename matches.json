@@ -19,36 +19,54 @@
     },
     {
         "team1": "برشلونة",
-        "team1Logo": "https://upload.wikimedia.org/wikipedia/fr/a/a1/Logo_FC_Barcelona.svg",
+        "team1Logo": "https://img0.aiscore.com/football/team/f378eb1ea04e53999b89051aa3244de6.png",
         "team2": "أتلانتا",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg",
+        "team2Logo": "https://img0.aiscore.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
         "time": "21:00",
         "status": "انتهت",
         "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10514.ts"
     },
     {
         "team1": "بايرن ميونخ",
-        "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
+        "team1Logo": "https://img0.aiscore.com/football/team/4c7e35b5134ebf4d92bdf0e88519e077.png",
         "team2": "سلوفان براتيسلافا",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/",
+        "team2Logo": "https://img0.aiscore.com/football/team/8e220a74791be9e0eb13507f0ce444db.png",
         "time": "21:00",
         "status": "مباشر",
         "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
     },
     {
         "team1": "ليفربول",
-        "team1Logo": "https://brandlogos.net/wp-content/uploads/2014/10/liverpool_fc-logo_brandlogos.net_vfw8i-512x671.png",
+        "team1Logo": "https://img0.aiscore.com/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png",
         "team2": "آيندهوفن",
-        "team2Logo": "//upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg",
+        "team2Logo": "https://img0.aiscore.com/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png",
         "time": "21:00",
         "status": "لم تبدأ بعد",
         "streamUrl": "https://example.com/match2.ts"
     },
     {
-        "team1": "مانشيستر يونايتد",
-        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg",
-        "team2": "مانشيستر سيتي",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+        "team1": "باريس سان جيرمان",
+        "team1Logo": "https://img0.aiscore.com/football/team/3b720f181ce9993f9422d276acf7b292.png",
+        "team2": "شتوتجارت",
+        "team2Logo": "https://img0.aiscore.com/football/team/bfdd500484330d63a723cbc396df762c.png",
+        "time": "21:00",
+        "status": "انتهت",
+        "streamUrl": "https://example.com/match3.ts"
+    },
+    {
+        "team1": "آرسنال",
+        "team1Logo": "https://img0.aiscore.com/football/team/2122445133f0eeeecbb61fe49fb69022.png",
+        "team2": "جيرونا",
+        "team2Logo": "https://img0.aiscore.com/football/team/006ce259b33ef72dd5570cfa8dc39f38.png",
+        "time": "21:00",
+        "status": "انتهت",
+        "streamUrl": "https://example.com/match3.ts"
+    },
+    {
+        "team1": "باريس سان جيرمان",
+        "team1Logo": "https://img0.aiscore.com/football/team/3b720f181ce9993f9422d276acf7b292.png",
+        "team2": "شتوتجارت",
+        "team2Logo": "https://img0.aiscore.com/football/team/bfdd500484330d63a723cbc396df762c.png",
         "time": "21:00",
         "status": "انتهت",
         "streamUrl": "https://example.com/match3.ts"
