@@ -1,18 +1,18 @@
 [
     {
         "team1": "بريست",
-        "team1Logo": "//upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg",
+        "team1Logo": "src="https://img0.aiscore.com/football/team/bb7e6346a3860008e4ff266ba3b655e8.png",
         "team2": "ريال مدريد",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+        "team2Logo": "https://img0.aiscore.com/football/team/47ba2fe5caa3770cfa2e99dc4b7e72cd.png",
         "time": "21:00",
         "status": "مباشر",
         "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/11183.ts"
     },
     {
         "team1": "مانشستر سيتي",
-        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+        "team1Logo": "https://img0.aiscore.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
         "team2": "كلوب بروج",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/sco/d/d0/Club_Brugge_KV_logo.svg",
+        "team2Logo": "https://img0.aiscore.com/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png",
         "time": "21:00",
         "status": "لم تبدأ بعد",
         "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10517.ts"
