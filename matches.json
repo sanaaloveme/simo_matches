@@ -33,7 +33,7 @@
         "team2Logo": "https://img0.aiscore.com/football/team/8e220a74791be9e0eb13507f0ce444db.png",
         "time": "21:00",
         "status": "مباشر",
-        "streamUrl": ""
+        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10516.ts"
     },
     {
         "team1": "ليفربول",
@@ -42,7 +42,7 @@
         "team2Logo": "https://img0.aiscore.com/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png",
         "time": "21:00",
         "status": "لم تبدأ بعد",
-        "streamUrl": "https://example.com/match2.ts"
+        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10512.ts"
     },
     {
         "team1": "باريس سان جيرمان",
