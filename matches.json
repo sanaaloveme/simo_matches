@@ -60,15 +60,15 @@
         "team2Logo": "https://img0.aiscore.com/football/team/006ce259b33ef72dd5570cfa8dc39f38.png",
         "time": "21:00",
         "status": "انتهت",
-        "streamUrl": "https://example.com/match3.ts"
+        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/11166.ts"
     },
     {
-        "team1": "باريس سان جيرمان",
-        "team1Logo": "https://img0.aiscore.com/football/team/3b720f181ce9993f9422d276acf7b292.png",
-        "team2": "شتوتجارت",
-        "team2Logo": "https://img0.aiscore.com/football/team/bfdd500484330d63a723cbc396df762c.png",
+        "team1": "أتلتيكو مدريد",
+        "team1Logo": "https://img0.aiscore.com/football/team/390977b0421bce136c562057ea171ecf.png",
+        "team2": "ريد بول سالزبورج",
+        "team2Logo": "https://img0.aiscore.com/football/team/4e07d3ac5c7d1f02fba7fa4c14c8ee76.png",
         "time": "21:00",
         "status": "انتهت",
-        "streamUrl": "https://example.com/match3.ts"
+        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/535839.ts"
     }
 ]
