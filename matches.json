@@ -1,9 +1,9 @@
 [
     {
         "team1": "بريست",
-        "team1Logo": "//upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg/495px-Logo_Stade_Brestois.svg.png?20230929230438",
+        "team1Logo": "//upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg",
         "team2": "ريال مدريد",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+        "team2Logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg",
         "time": "21:00",
         "status": "مباشر",
         "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/11183.ts"
@@ -21,7 +21,7 @@
         "team1": "برشلونة",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/fr/a/a1/Logo_FC_Barcelona.svg",
         "team2": "أتلانتا",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/558px-Logo_Atalanta_Bergamo.svg.png",
+        "team2Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg",
         "time": "21:00",
         "status": "انتهت",
         "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10514.ts"
@@ -30,23 +30,23 @@
         "team1": "بايرن ميونخ",
         "team1Logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
         "team2": "سلوفان براتيسلافا",
-        "team2Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.png",
+        "team2Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/",
         "time": "21:00",
         "status": "مباشر",
         "streamUrl": "http://www.clubsmartlive.com:2052/live/qmjjhbe90/amuwcabp/11160.ts"
     },
     {
         "team1": "ليفربول",
-        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/2110px-Liverpool_FC.svg.png",
+        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg",
         "team2": "آيندهوفن",
-        "team2Logo": "//upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/langfr-150px-Logo_PSV_Eindhoven_2024.svg.png",
+        "team2Logo": "//upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg",
         "time": "21:00",
         "status": "لم تبدأ بعد",
         "streamUrl": "https://example.com/match2.ts"
     },
     {
         "team1": "مانشيستر يونايتد",
-        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",
+        "team1Logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg",
         "team2": "مانشيستر سيتي",
         "team2Logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
         "time": "21:00",
