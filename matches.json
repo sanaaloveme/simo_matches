@@ -2,11 +2,11 @@
     {
         "team1": "بريست",
         "team1Logo": "https://img0.aiscore.com/football/team/bb7e6346a3860008e4ff266ba3b655e8.png",
-        "team2": "ريال تراست",
+        "team2": "ريال اوعين",
         "team2Logo": "https://img0.aiscore.com/football/team/47ba2fe5caa3770cfa2e99dc4b7e72cd.png",
         "time": "21:00",
         "status": "مباشر",
-        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10514.ts"
+        "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
         "team1": "مانشستر سيتي",
