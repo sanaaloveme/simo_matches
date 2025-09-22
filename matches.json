@@ -15,7 +15,7 @@
         "team2Logo": "https://img0.aiscore.com/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png",
         "time": "21:00",
         "status": "لم تبدأ بعد",
-        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10516.ts"
+        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10518.ts"
     },
     {
         "team1": "برشلونة",
@@ -70,5 +70,14 @@
         "time": "21:00",
         "status": "أجلت",
         "streamUrl": "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8"
+    },
+{
+        "team1": "مانشستر سيتي",
+        "team1Logo": "https://img0.aiscore.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
+        "team2": "كلوب بروج",
+        "team2Logo": "https://img0.aiscore.com/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png",
+        "time": "21:00",
+        "status": "لم تبدأ بعد",
+        "streamUrl": "http://www.pythonsmarters.com:2052/live/zpnbrwxa/phnnsjn/10519.ts"
     }
 ]
