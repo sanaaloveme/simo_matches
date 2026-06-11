@@ -15,7 +15,7 @@
         "team2": "كلوب بروج",
         "team2Logo": "https://img0.aiscore.com/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png",
         "time": "21:00",
-        "status": "لم تبدأ بعد",
+        "status": "لم تبدأ بعد"
     },
     {
         "id": "345",
@@ -24,7 +24,7 @@
         "team2": "أتلانتا",
         "team2Logo": "https://img0.aiscore.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
         "time": "21:00",
-        "status": "انتهت",
+        "status": "انتهت"
     },
     {
         "id": "456",
@@ -33,7 +33,7 @@
         "team2": "سلوفان براتيسلافا",
         "team2Logo": "https://img0.aiscore.com/football/team/8e220a74791be9e0eb13507f0ce444db.png",
         "time": "21:00",
-        "status": "مباشر",
+        "status": "مباشر"
     },
     {
         "id": "567",
